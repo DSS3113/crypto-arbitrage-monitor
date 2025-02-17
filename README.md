@@ -151,7 +151,7 @@ Feel free to submit issues and pull requests for:
 
 ## License
 
-[Add your chosen license here]
+MIT
 
 ## Disclaimer
 
