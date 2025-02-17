@@ -120,7 +120,7 @@ The project uses the following compiler settings:
 ### Running the System
 
 ```bash
-./crypto_arbitrage
+./cryptoArbitrageMonitor
 ```
 
 ## Error Handling
