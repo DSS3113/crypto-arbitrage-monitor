@@ -1,0 +1,18 @@
+{
+    "exchanges": {
+        "binance": {
+            "api_url": "https://api.binance.us/api/v3/trades",
+            "req_timeout": 1000
+        },
+        "kraken": {
+            "api_url": "https://api.kraken.com/0/public/Trades",
+            "req_timeout": 1000
+        }
+    },
+    "symbols": ["BTC/USDT", "ETH/USDT"],
+    "num_threads": 4,
+    "feedback_interval": 5,
+    "min_profit_percentage": 0.1,
+    "trading_fees": 0.1,
+    "min_trade_size": 0.001
+}
