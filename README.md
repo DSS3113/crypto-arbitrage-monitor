@@ -107,7 +107,7 @@ make clean
 make rebuild
 ```
 
-The compiled binary will be created at `bin/arbitrageOppFinder`
+The compiled binary will be created at `bin/cryptoArbitrageMonitor`
 
 #### Makefile Configuration
 
